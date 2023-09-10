@@ -28,7 +28,7 @@ namespace InfoEndpoint
             app.MapGet("/api", (string slack_name, string track) =>
             {
                 string current_day = DateTime.Now.ToString("dddd");
-                DateTime current_utc_time = DateTime.UtcNow.AddMinutes(new Random().Next(-2, 3));
+                DateTime current_utc_time = DateTime.UtcNow.AddMinutes(new Random());
 
                 var response = new
                 {
