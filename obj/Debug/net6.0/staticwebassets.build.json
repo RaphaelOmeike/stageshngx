@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WVGv44E1UmaMhRcqhghH7szF5EjjQvyRBWyd4RaRC80=",
+  "Source": "InfoEndpoint",
+  "BasePath": "_content/InfoEndpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
